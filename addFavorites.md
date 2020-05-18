@@ -67,5 +67,4 @@ Status of the operation is returned.
   }
 }
 ```
-<button type="button" onclick="('POST %20media%20favorites!')">< Previous</button>
-<button type="button" onclick="('getStreamingUrls.md!')">> Next</button>
+
