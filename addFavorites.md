@@ -37,7 +37,8 @@ request.setImageUrl("https://m.media-amazon.com/images/I/81ITzP4YjoL._SX325_SY32
 //Optional. The URL associated with the image of this favorite.
 
 request.setDuration(268);
-//Optional. Integer The duration of the track is expressed in number of seconds. 0 indicates that duration is unknown.
+//Optional. Integer The duration of the track is expressed in number of seconds. 
+0 indicates that duration is unknown.
 
 request.setAdvertisement(false);
 //Optional. True indicates that this track is an advertisment; false indicates otherwise. 
